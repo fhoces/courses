@@ -18,18 +18,21 @@ The course repos are checked out as sibling directories on disk but are
 
 ## Courses
 
-| Course | Repo |
-|---|---|
-| Experimentation Refresher | [experimentation-refresher](https://github.com/fhoces/experimentation-refresher) |
-| Causal Inference Beyond A/B Tests | [causal-inference-beyond-ab](https://github.com/fhoces/causal-inference-beyond-ab) |
-| Discrimination in Labor Economics | [discrimination-econ-refresher](https://github.com/fhoces/discrimination-econ-refresher) |
-| ML Refresher: Discrimination and Fairness | [ml-discrimination-refresher](https://github.com/fhoces/ml-discrimination-refresher) |
-| Python for an R User | [python-for-r-users](https://github.com/fhoces/python-for-r-users) |
-| Intro to SQL | [sql-industry-prep](https://github.com/fhoces/sql-industry-prep) |
+| Course | Repo | Summary |
+|---|---|---|
+| Experimentation Refresher | [experimentation-refresher](https://github.com/fhoces/experimentation-refresher) | Experimental design and causal inference for tech interviews — potential outcomes, SUTVA, power/CUPED, external validity, plus a tour of modern DiD, synthetic control, and causal forests |
+| Causal Inference Beyond A/B Tests | [causal-inference-beyond-ab](https://github.com/fhoces/causal-inference-beyond-ab) | A deep-dive companion to Experimentation Refresher's Module 8 — modern difference-in-differences, synthetic control, and causal forests for heterogeneous effects |
+| Discrimination in Labor Economics | [discrimination-econ-refresher](https://github.com/fhoces/discrimination-econ-refresher) | Audit studies, pay-gap decompositions, and algorithmic-bias audits, brought current past the Becker/Phelps-era canon |
+| ML Refresher: Discrimination and Fairness | [ml-discrimination-refresher](https://github.com/fhoces/ml-discrimination-refresher) | Classical ML (linear models → trees → neural nets) paired with algorithmic-discrimination scenarios; every exercise in R |
+| Python for an R User | [python-for-r-users](https://github.com/fhoces/python-for-r-users) | Translates existing R fluency into Python interview fluency — pandas + statsmodels, no syntax tutorials |
+| Intro to SQL | [sql-industry-prep](https://github.com/fhoces/sql-industry-prep) | Interview-style analytical queries against a ride-sharing schema, concept → code → drills |
 
 Plus one reference course kept for background, not part of the refresher
-collection: [EC140S2022](https://github.com/fhoces/EC140S2022) (UC Berkeley
-Econ 140, Spring 2022).
+collection above:
+
+| Course | Repo | Summary |
+|---|---|---|
+| EC140: Econometrics | [EC140S2022](https://github.com/fhoces/EC140S2022) | UC Berkeley, Spring 2022 — a full-semester undergraduate causal-inference course (syllabus, slides, problem sets) |
 
 ## Authoring conventions
 
