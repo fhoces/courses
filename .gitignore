@@ -1,0 +1,14 @@
+# Each of these is its own independent git repository with its own GitHub
+# remote. They stay out of this meta repo entirely (not submodules, just
+# ignored) to avoid nested-repo / gitlink issues.
+causal-inference-beyond-ab/
+discrimination-econ-refresher/
+EC140S2022/
+experimentation-refresher/
+interview-specific-prep/
+ml-discrimination-refresher/
+python-for-r-users/
+sql-industry-prep/
+
+# Local Claude Code tooling config (machine-specific, not portfolio content)
+.claude/
