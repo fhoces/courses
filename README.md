@@ -26,6 +26,7 @@ The course repos are checked out as sibling directories on disk but are
 | ML Refresher: Discrimination and Fairness | [ml-discrimination-refresher](https://github.com/fhoces/ml-discrimination-refresher) | Classical ML (linear models → trees → neural nets) paired with algorithmic-discrimination scenarios; every exercise in R |
 | Python for an R User | [python-for-r-users](https://github.com/fhoces/python-for-r-users) | Translates existing R fluency into Python interview fluency — pandas + statsmodels, no syntax tutorials |
 | Intro to SQL | [sql-industry-prep](https://github.com/fhoces/sql-industry-prep) | Interview-style analytical queries against a ride-sharing schema, concept → code → drills |
+| Administrative Data Pipelines | [admin-data-pipelines](https://github.com/fhoces/admin-data-pipelines) | The pipeline side of policy research: database design, larger-than-memory data, ETL practice, record linkage at scale, data versioning, and verifiable use of AI tools (1 of 8 modules built) |
 
 Plus one reference course kept for background, not part of the refresher
 collection above:
