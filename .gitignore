@@ -1,6 +1,7 @@
 # Each of these is its own independent git repository with its own GitHub
 # remote. They stay out of this meta repo entirely (not submodules, just
 # ignored) to avoid nested-repo / gitlink issues.
+admin-data-pipelines/
 causal-inference-beyond-ab/
 discrimination-econ-refresher/
 EC140S2022/
