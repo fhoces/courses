@@ -28,6 +28,12 @@ The course repos are checked out as sibling directories on disk but are
 | Intro to SQL | [sql-industry-prep](https://github.com/fhoces/sql-industry-prep) | Interview-style analytical queries against a ride-sharing schema, concept → code → drills |
 | Administrative Data Pipelines | [admin-data-pipelines](https://github.com/fhoces/admin-data-pipelines) | The pipeline side of policy research: database design, larger-than-memory data, ETL practice, record linkage at scale, data versioning, and verifiable use of AI tools (1 of 8 modules built) |
 
+Plus one undergraduate course, written for students rather than as a refresher:
+
+| Course | Repo | Summary |
+|---|---|---|
+| Urban and Regional Spatial Data Analysis | [urban-spatial-analysis](https://github.com/fhoces/urban-spatial-analysis) | A 10-week course for economics majors on where economic opportunity is: maps, scale, spatial autocorrelation, spatial regression, neighborhood effects, segregation and migration, with Opportunity Insights data in Python, R and QGIS |
+
 Plus one reference course kept for background, not part of the refresher
 collection above:
 
