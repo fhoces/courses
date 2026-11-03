@@ -34,6 +34,13 @@ Plus one undergraduate course, written for students rather than as a refresher:
 |---|---|---|
 | Urban and Regional Spatial Data Analysis | [urban-spatial-analysis](https://github.com/fhoces/urban-spatial-analysis) | A 10-week course for economics majors on where economic opportunity is: maps, scale, spatial autocorrelation, spatial regression, neighborhood effects, segregation and migration, with Opportunity Insights data in Python, R and QGIS |
 
+Plus two hands-on math courses for kids:
+
+| Course | Repo | Summary |
+|---|---|---|
+| Geometry for Ben | [ben-geometry](https://github.com/fhoces/ben-geometry) | See it, prove it, compete with it: compass constructions, triangle angle sums, inscribed angles, tilings, Pythagoras and a contest toolkit |
+| Math Play for Isa | [isa-math-play](https://github.com/fhoces/isa-math-play) | Playful, hands-on math: symmetry and snowflakes, pattern blocks and tangrams, growing patterns, number shapes and a shape hunt |
+
 Plus one reference course kept for background, not part of the refresher
 collection above:
 
